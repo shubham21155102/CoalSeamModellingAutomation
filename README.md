@@ -1,4 +1,4 @@
-# MineGeologyAutomationOnAutoCad
+# CoalSeamModellingAutomation
 The script provided reads geological data from an Excel file and generates a DXF file visualizing lithological columns. 
 
 ### 1. Loading the Excel Workbook
