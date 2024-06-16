@@ -1,5 +1,7 @@
 # CoalSeamModellingAutomation
 
+### Note: Due to restrictions I can not compromise with data used
+
 # main.py
 
 The script provided reads geological data from an Excel file and generates a DXF file visualizing lithological columns.
